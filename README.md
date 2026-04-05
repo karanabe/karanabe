@@ -34,8 +34,4 @@
     <img src="https://skillicons.dev/icons?i=debian,git,vscode,maven,vite,pnpm" />
   </div>
 
-  <h5>GitHub Stats</h5>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanabe&layout=compact&title_color=000&text_color=000&hide=CSS,HTML,PowerShell,Dockerfile,Makefile,Vim%20script&langs_count=4&hide_border=true" />
-  </div>
 </div>
